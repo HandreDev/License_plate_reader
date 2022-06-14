@@ -1,6 +1,9 @@
 # License_plate_reader
 Python app with GUI (Incomplete)
 
+Requires
+- pip install opencv-python
+
 App Still in process
 
 -- Win_find_Plate
